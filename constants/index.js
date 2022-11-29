@@ -1,0 +1,3 @@
+import { COLORS, LIGHT, DARK, SHADOWS, SIZES, FONTS } from './theme'
+
+export { COLORS, LIGHT, DARK, SHADOWS, SIZES, FONTS }
